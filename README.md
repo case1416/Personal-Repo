@@ -10,4 +10,5 @@ npm install axios
 # To Start
 npm start
 
+# Note
 Copy StockData.js and past it at you src folder then copy the content of App.js and paste it inside your App.js
